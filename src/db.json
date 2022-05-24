@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Learn Javascript",
+      "status": false
+    },
+    {
+      "title": "learn React",
+      "status": false,
+      "id": "680WRl7"
+    },
+    {
+      "title": "Reading",
+      "status": false,
+      "id": "SlFpSA_"
+    },
+    {
+      "title": "Create Project",
+      "status": false,
+      "id": "wdlnemd"
+    },
+    {
+      "title": "Running",
+      "status": false,
+      "id": "ei5Yi6I"
+    },
+    {
+      "title": "learn Vue",
+      "status": false,
+      "id": "zCiEz-n"
+    }
+  ]
+}
